@@ -1,7 +1,0 @@
-# The .m file is Power Query (M language), not Objective-C.
-# Exclude it from GitHub's language statistics.
-*.m linguist-detectable=false
-
-# Documentation and assets should not count as source code either.
-docs/* linguist-documentation
-*.json linguist-detectable=false
