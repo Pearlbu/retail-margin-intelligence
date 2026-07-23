@@ -4,6 +4,8 @@
 
 ![Dashboard](docs/dashboard-overview.jpg)
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiNzQyMGQxYmEtNDQ1Yi00NjJhLWE2NmQtZDIxZDY5YWFkN2U5IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
+
 ---
 
 ## The short version
