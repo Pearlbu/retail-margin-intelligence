@@ -2,6 +2,8 @@
 
 **A Power BI analysis of 400,000 retail transactions that found 26% of sales were being made below cost — and quantified the policy fix worth $560M in recovered margin.**
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiNzQyMGQxYmEtNDQ1Yi00NjJhLWE2NmQtZDIxZDY5YWFkN2U5IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
+
 ![Dashboard](docs/dashboard-overview.png)
 
 ---
