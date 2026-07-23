@@ -167,7 +167,7 @@ Title Bands =
 │   └── dashboard-overview.jpg   # single-page consolidated dashboard
 ├── models/
 │   ├── measures.md              # full DAX reference, 33 measures
-│   └── power-query.m            # source transformation
+│   └── power-query.pq            # source transformation
 ├── theme/
 │   └── retail-margin-intelligence.json
 └── Retail Data & Analysis.pbix
