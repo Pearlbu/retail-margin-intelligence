@@ -191,6 +191,6 @@ Title Bands =
 
 ## Contact
 
-**Piero Manuel Mejía Berrios** — Business Intelligence & Data Analytics
+**Piero Manuel Mejía Berrios** — Business Intelligence & Data Analytics 
 
 [LinkedIn](https://www.linkedin.com/in/pieromejia19) · [Upwork](https://www.upwork.com/freelancers/~018ac605e4eec7ba2d)
