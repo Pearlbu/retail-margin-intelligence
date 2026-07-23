@@ -2,9 +2,9 @@
 
 **A Power BI analysis of 400,000 retail transactions that found 26% of sales were being made below cost — and quantified the policy fix worth $560M in recovered margin.**
 
-![Dashboard](docs/dashboard-overview.jpg)
+**[▶ Explore the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzQyMGQxYmEtNDQ1Yi00NjJhLWE2NmQtZDIxZDY5YWFkN2U5IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)**
 
-Link: https://app.powerbi.com/view?r=eyJrIjoiNzQyMGQxYmEtNDQ1Yi00NjJhLWE2NmQtZDIxZDY5YWFkN2U5IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
+![Dashboard](docs/dashboard-overview.jpg)
 
 ---
 
@@ -165,12 +165,12 @@ Title Bands =
 ├── README.md
 ├── docs/
 │   └── dashboard-overview.jpg   # single-page consolidated dashboard
-├── model/
+├── models/
 │   ├── measures.md              # full DAX reference, 33 measures
 │   └── power-query.m            # source transformation
 ├── theme/
 │   └── retail-margin-intelligence.json
-└── Retail Margin Intelligence.pbix
+└── Retail Data & Analysis.pbix
 ```
 
 ## Running it
@@ -191,4 +191,6 @@ Title Bands =
 
 ## Contact
 
-Piero Manuel Mejía Berrios — [LinkedIn](#) · [Upwork](#) · [Workana](#)
+**Piero Manuel Mejía Berrios** — Business Intelligence & Data Analytics
+
+[LinkedIn](https://www.linkedin.com/in/pieromejia19) · [Upwork](https://www.upwork.com/freelancers/~018ac605e4eec7ba2d)
